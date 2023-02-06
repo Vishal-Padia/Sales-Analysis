@@ -16,12 +16,16 @@ The Sales Analysis Dashboard project created using PowerBI provides a powerful t
 
 ## Dashboard Images
 There are 2 versions of the dashboard one with minimal visualisation but important insights. The second one is a modified version of the dashboard which has more insights and it is very 'business oriented'.  
-<img src='DashBoard-1.png' alt="DashBoard-Image">
+![Screenshot](DashBoard-1.png)
+<!-- <img src='DashBoard-1.png' alt="DashBoard-Image"> -->
 The above image is the basic version of the dashboard.
 
 
-<img src='DashBoard-2.png' alt="DashBoard-Image2">
+![Screenshot](DashBoard-2.png)
+<!-- <img src='DashBoard-2.png' alt="DashBoard-Image2"> -->
 The above image is the updated version of the dashboard and it shows the profit analysis of the data.
 
-<img src='DashBoard-3.png' alt="DashBoard-Image3">
+
+![Screenshot](DashBoard-3.png)
+<!-- <img src='DashBoard-3.png' alt="DashBoard-Image3"> -->
 The above image is also the updated version of the dashbaord and it shows the performance insights of the data
