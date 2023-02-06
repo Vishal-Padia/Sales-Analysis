@@ -27,4 +27,4 @@ The above image is the updated version of the dashboard and it shows the profit 
 
 
 ![DashBoard-3](https://user-images.githubusercontent.com/66507933/216898621-f4905e2a-6db2-4923-a02e-1df5ad929d00.png)
-The above image is also the updated version of the dashbaord and it shows the performance insights of the data
+The above image is also the updated version of the dashboard and it shows the performance insights of the data
